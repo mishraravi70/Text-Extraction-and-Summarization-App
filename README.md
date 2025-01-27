@@ -118,10 +118,5 @@ This project is open-source and available under the MIT License.
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the app.
 
----
-
-## Contact
-
-For questions or feedback, reach out at: [your-email@example.com]
 
 
